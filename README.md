@@ -52,7 +52,7 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## Contact
 
-For questions, ideas, or support, please [open an issue](https://github.com/yourusername/censo/issues) or email: **arxz@myyahoo.com**
+For questions, ideas, or support, please [open an issue](https://github.com/vRayge/censo/issues) or email: **arxz@myyahoo.com**
 
 
 
